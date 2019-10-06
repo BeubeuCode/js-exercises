@@ -1,0 +1,47 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+#bigDiv {
+    width: 200%;
+    height: 100%;
+}
+
+
+#firstSlide {
+    width: 50%;
+    height: 100%;
+    float:left;
+}
+
+.paddingDeOuf {
+    margin: -125%;
+}
+
+#secondSlide {
+    height: 100%;
+    width: 50%;
+    float:left;
+}
+
+.bg-bm {
+    background-color: #03224C;
+}
+
+.form-control {
+    border-radius: 60px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 15px 20px;
+}
+
+.btn {
+    border-radius: 60px;
+}
+
+.btn-stylized {
+    background-color: whitesmoke;
+    color: rgb(7, 58, 131);
+    padding: 15px 20px;
+}
